@@ -5,7 +5,7 @@ public class TableTwo {
 		int i = 1;
 		for(; ; i++) {
 			if(i%2!=0) 
-				continue;
+			continue;
 			
 			else if(i>20)
 			break;
