@@ -1,4 +1,4 @@
-package com.glearning.practice.codingchallange_4;
+package com.glearning.practice.codingchallenge_4;
 
 public class LeapYear {
 	public static void main(String[] args) {

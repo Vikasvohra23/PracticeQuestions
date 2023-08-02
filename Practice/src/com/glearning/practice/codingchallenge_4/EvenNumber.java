@@ -1,4 +1,4 @@
-package com.glearning.practice.codingchallange_4;
+package com.glearning.practice.codingchallenge_4;
 
 class Main {public static void main(String[] args) {
 	int no = 55;

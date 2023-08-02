@@ -1,4 +1,4 @@
-package com.glearning.practice.codingchallange_1;
+package com.glearning.practice.codingchallenge_1;
 
 public class FirstProgram {
 	public static void main(String[] args) {

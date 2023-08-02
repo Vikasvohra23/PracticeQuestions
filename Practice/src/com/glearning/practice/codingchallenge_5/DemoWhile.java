@@ -1,4 +1,4 @@
-package com.glearning.practice.codingchallange_5;
+package com.glearning.practice.codingchallenge_5;
 
 public class DemoWhile {
 	public static void main(String[] args){

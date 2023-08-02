@@ -1,4 +1,4 @@
-package com.glearning.practice.codingchallange_3;
+package com.glearning.practice.codingchallenge_3;
 
 public class ArthimaticOperations {
 	public static void main(String[] args) {

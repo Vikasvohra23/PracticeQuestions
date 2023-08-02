@@ -1,4 +1,4 @@
-package com.glearning.practice.codingchallange_6;
+package com.glearning.practice.codingchallenge_6;
 
 public class Customer {        // A class Customer is made
 	String fullName;

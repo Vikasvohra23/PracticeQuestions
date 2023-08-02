@@ -1,4 +1,4 @@
-package com.glearning.practice.codingchallange_2;
+package com.glearning.practice.codingchallenge_2;
 
 public class Variables {
 	public static void main(String[] args) {
