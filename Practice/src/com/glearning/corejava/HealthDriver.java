@@ -1,4 +1,4 @@
-package com.greatlearning.corejava;
+package com.glearning.corejava;
 
 public class HealthDriver {
 	public static void main(String[] args) {

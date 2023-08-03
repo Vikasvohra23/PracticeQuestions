@@ -1,4 +1,4 @@
-package com.greatlearning.corejava;
+package com.glearning.corejava;
 
 public class Health {
 	protected int age = 22;
